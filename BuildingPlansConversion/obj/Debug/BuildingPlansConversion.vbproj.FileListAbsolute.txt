@@ -1,0 +1,24 @@
+C:\Users\crypt\source\repos\BuildingPlansConversion\BuildingPlansConversion\bin\Debug\BuildingPlansConversion.exe.config
+C:\Users\crypt\source\repos\BuildingPlansConversion\BuildingPlansConversion\bin\Debug\BuildingPlansConversion.exe
+C:\Users\crypt\source\repos\BuildingPlansConversion\BuildingPlansConversion\bin\Debug\BuildingPlansConversion.pdb
+C:\Users\crypt\source\repos\BuildingPlansConversion\BuildingPlansConversion\bin\Debug\BuildingPlansConversion.xml
+C:\Users\crypt\source\repos\BuildingPlansConversion\BuildingPlansConversion\obj\Debug\BuildingPlansConversion.vbprojAssemblyReference.cache
+C:\Users\crypt\source\repos\BuildingPlansConversion\BuildingPlansConversion\obj\Debug\BuildingPlansConversion.frmBuildingPlans.resources
+C:\Users\crypt\source\repos\BuildingPlansConversion\BuildingPlansConversion\obj\Debug\BuildingPlansConversion.Resources.resources
+C:\Users\crypt\source\repos\BuildingPlansConversion\BuildingPlansConversion\obj\Debug\BuildingPlansConversion.vbproj.GenerateResource.cache
+C:\Users\crypt\source\repos\BuildingPlansConversion\BuildingPlansConversion\obj\Debug\BuildingPlansConversion.vbproj.CoreCompileInputs.cache
+C:\Users\crypt\source\repos\BuildingPlansConversion\BuildingPlansConversion\obj\Debug\BuildingPlansConversion.exe
+C:\Users\crypt\source\repos\BuildingPlansConversion\BuildingPlansConversion\obj\Debug\BuildingPlansConversion.xml
+C:\Users\crypt\source\repos\BuildingPlansConversion\BuildingPlansConversion\obj\Debug\BuildingPlansConversion.pdb
+E:\Visual Basic\BuildingPlansConversion\BuildingPlansConversion\bin\Debug\BuildingPlansConversion.exe.config
+E:\Visual Basic\BuildingPlansConversion\BuildingPlansConversion\bin\Debug\BuildingPlansConversion.exe
+E:\Visual Basic\BuildingPlansConversion\BuildingPlansConversion\bin\Debug\BuildingPlansConversion.pdb
+E:\Visual Basic\BuildingPlansConversion\BuildingPlansConversion\bin\Debug\BuildingPlansConversion.xml
+E:\Visual Basic\BuildingPlansConversion\BuildingPlansConversion\obj\Debug\BuildingPlansConversion.vbprojAssemblyReference.cache
+E:\Visual Basic\BuildingPlansConversion\BuildingPlansConversion\obj\Debug\BuildingPlansConversion.frmBuildingPlans.resources
+E:\Visual Basic\BuildingPlansConversion\BuildingPlansConversion\obj\Debug\BuildingPlansConversion.Resources.resources
+E:\Visual Basic\BuildingPlansConversion\BuildingPlansConversion\obj\Debug\BuildingPlansConversion.vbproj.GenerateResource.cache
+E:\Visual Basic\BuildingPlansConversion\BuildingPlansConversion\obj\Debug\BuildingPlansConversion.vbproj.CoreCompileInputs.cache
+E:\Visual Basic\BuildingPlansConversion\BuildingPlansConversion\obj\Debug\BuildingPlansConversion.exe
+E:\Visual Basic\BuildingPlansConversion\BuildingPlansConversion\obj\Debug\BuildingPlansConversion.xml
+E:\Visual Basic\BuildingPlansConversion\BuildingPlansConversion\obj\Debug\BuildingPlansConversion.pdb
